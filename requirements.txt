@@ -1,0 +1,15 @@
+aiohttp>=3.9
+psutil>=5.9
+numpy>=1.26
+comtypes>=1.2
+pycaw>=20230407
+PyAudioWPatch>=0.2.12
+keyboard>=0.13.5
+pillow>=10.0
+pystray>=0.19
+icoextract>=0.1.4
+pywin32>=306
+winrt-runtime>=2.0
+winrt-Windows.Foundation>=2.0
+winrt-Windows.Media.Control>=2.0
+winrt-Windows.Storage.Streams>=2.0
